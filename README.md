@@ -12,7 +12,7 @@ Backend developer
 # Hola, Me llamo moises! 👋
 
 ## 🛠 Skills
-Javascript, HTML, CSS, C, C#, jAVA PHP Y SQL
+Javascript, HTML, CSS, C, C#, jAVA Y SQL
 
 
 ## 
@@ -65,8 +65,4 @@ Javascript, HTML, CSS, C, C#, jAVA PHP Y SQL
   Crear y diseñar interfaces de usuario con Java Swing, conexion a base de 
   datos con JDBC
 
-- APLICACIONES WEB CON PHP
 
-  Habilidades:
-  Crear aplicaciones web con HTML5, CSS3 o GULP Y SASS, JavaScript, PHP 
-  Mysql y AJAX
