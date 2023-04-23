@@ -42,8 +42,7 @@ Javascript, HTML, CSS, C, C#, jAVA Y SQL
   
   Habilidades:
   Spring MVC, Data JPA, Hibernate, Spring Security con Oauth2 y JWT, 
-  Arquitectura API RESTfull, Thymeleaf, Bootstrap, conocimiento en JQuery
-  y conocimiento en Angular
+  Arquitectura API RESTfull, Thymeleaf, Bootstrap y conocimiento en Angular
 
 - APLICACIONES EMPRESARIALES CON J2EE
 
